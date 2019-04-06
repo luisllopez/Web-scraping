@@ -10,10 +10,10 @@ La actividad ha sido realizada de manera individual por Luis Antón López Sobra
 ## Requeriminetos
 Para ejecutar el script es necesario instalar la siguientes bibliotecas:
 
-pip install pandas
-pip install requests
-pip install lxml
-pip install beautifulsoup4
+> * pip install pandas
+> * pip install requests
+> * pip install lxml
+> * pip install beautifulsoup4
 
 ## Ficheros del código fuente
 main.py: punto de entrada al programa. Estrae la información mediante el uso de las librerías Python Requests y BeautifulSoup, diseñadas para la extracción de contenido web y finalmente genera el dataset correspondiente.
