@@ -20,7 +20,7 @@ Para ejecutar el script es necesario instalar la siguientes bibliotecas:
 
 ## Ficheros del código fuente
 
-**main.py**: punto de entrada al programa. Estrae la información mediante el uso de las librerías Python Requests y BeautifulSoup, diseñadas para la extracción de contenido web y finalmente genera el dataset correspondiente.
+**main.py**: punto de entrada al programa. Extrae la información mediante el uso de las librerías Python Requests y BeautifulSoup (diseñadas para la extracción de contenido web) y finalmente genera el dataset correspondiente.
 
 ## Recursos
 
