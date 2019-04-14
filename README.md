@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de extracción de datos.En ella se aplican técnicas de web scraping mediante el lenguaje de programación Python, para extraer la información del calendario de carreras de la página de la federación gallega de atletismo y generar un dataset.
+En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de extracción de datos. En ella se aplican técnicas de web scraping mediante el lenguaje de programación Python, para extraer la información del calendario de carreras de la página de la federación gallega de atletismo y generar un dataset.
 
 ## Miembros del equipo
 
